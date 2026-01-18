@@ -31,10 +31,10 @@ This project is part of my **portfolio as a fresher**, highlighting skills in Po
 ## 🖼 Project Preview
 
 ### Screenshot
-[Dashboard Preview](PowerBI%20Dashboard.jpg)
+[Dashboard Preview](PowerBi%20Dashboard.jpg)
 
 ### Screen Recording
-[Watch the demo video](PowerBI%20Dashboard.mp4)
+[Watch the demo video](PowerBi%20Dashboard.mp4)
 
 > Both files are included in the repository root for easy access.
 
